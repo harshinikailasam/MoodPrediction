@@ -12,7 +12,7 @@ MoodPrediction is a machine learning project that predicts a person’s mood usi
 - **Description**: Contains features such as time of day, activity levels, social context, and other behavioral attributes that influence mood.
 - **Target variable**: Mood label (e.g., Positive, Negative, Neutral)
 
-## 🧠 Classification Models Used
+##  Classification Models Used
 - Logistic Regression
 - Naive Bayes
 - Support Vector Machine (SVM)
@@ -21,7 +21,7 @@ MoodPrediction is a machine learning project that predicts a person’s mood usi
 - Random Forest
 - K-Nearest Neighbors (KNN)
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 - pandas
 - NumPy
 - scikit-learn
